@@ -53,7 +53,9 @@ Ravengro'daki müzik takımının bir üyesi, kendisi hem solist hem de takımı
 ### Sheriff
 Ravengro'nun kıymetli şerifi, kendisi melankolik gözükse de işini düzgün yapan birisi. Parti için defalarca kez araştırmalara katılmış ve elinden geleni yapmıştır. Köyde gerekli tedbirleri ve savunmayı sağlıyor. Suçluların korktuğu 1 numaralı adam. 
 
-Herzem bir seferinde şerife takımdan Darian'ı suç üstü yakaladığı için teslim etmiştir. Thomas ve Darian bu yüzden nezarette 1 gün geçirdiler. Ardından Ravengro'da etkinliğe katılmış olan parti Darian'ın ortada olmaması üzerine hapishaneyi ziyaret eder ve Darian'ın uyuşturucu maddeden içeri alındığını görürler. Şerif Herzemle yaptığı konuşmayla beraber Darian'ı serbest bırakmıştır.![sheriff](/arodenites.github.io/carrion-crown/assets/h-gA0qKvR/sheriff.png)
+Herzem bir seferinde şerife takımdan Darian'ı suç üstü yakaladığı için teslim etmiştir. Thomas ve Darian bu yüzden nezarette 1 gün geçirdiler. Ardından Ravengro'da etkinliğe katılmış olan parti Darian'ın ortada olmaması üzerine hapishaneyi ziyaret eder ve Darian'ın uyuşturucu maddeden içeri alındığını görürler. Şerif Herzemle yaptığı konuşmayla beraber Darian'ı serbest bırakmıştır.
+
+![sheriff](/arodenites.github.io/carrion-crown/assets/h-gA0qKvR/sheriff.png)
 
 ---
 
