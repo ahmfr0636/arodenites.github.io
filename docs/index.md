@@ -1,7 +1,7 @@
-# Carrion Crown
+<img src="carrion-crown/assets/logo/Aroden_religious_symbol.png" width="400">
 
 ## Quick Navigation
-
+### Carrion Crown
 - [Overview](/carrion-crown/overview.html)
 - [Party](/carrion-crown/party/index.html)
 - [Herzem al-Gaib](/carrion-crown/party/herzem-al-gaib.html)
