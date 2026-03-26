@@ -1,8 +1,8 @@
 /* Float NPC/character images to the right so text wraps around them */
 .md-content img {
-    float: right;
+    float: left;
     margin: 0 0 1em 1.5em;
-    max-width: 250px;
+    max-width: 400px;
     height: auto;
 }
 
