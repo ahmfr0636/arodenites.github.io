@@ -2,11 +2,12 @@
 title: Herzem al-Gaib
 ---
 ---
- ### Quick Navigation
+ ## Quick Navigation
 - [General Info](#character-info)
 - [Background](#background)
 - [Relationships](#relationships)
 - [Character Plan & Structure](#plan)
+
 ---
 # [Herzem al-Gaib](#herzem-al-gaib) 
 ---
@@ -53,7 +54,7 @@ Equipments:
 
 
 ---
-# Backstory
+# Background
 ## Mercy That Endures
 The Light That Stays: Herzem al-Gaib
 Sarenrae’nin bazı paladinleri alevle yeti ş ir.
