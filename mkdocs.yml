@@ -1,7 +1,7 @@
-site_name: Carrion Crown Wiki
+site_name: Eye Of Aroden
 site_description: Pathfinder 1e campaign wiki
-site_url: https://ahmfr0636.github.io/arodenites.github.io/
-repo_url: https://github.com/ahmfr0636/arodenites.github.io
+site_url: https://arodenites.github.io/
+repo_url: https://github.com/Arodenites/arodenites.github.io
 docs_dir: docs
 edit_uri: edit/main/docs/
 use_directory_urls: false
