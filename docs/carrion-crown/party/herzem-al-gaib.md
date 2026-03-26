@@ -1,8 +1,10 @@
 ---
 title: Herzem al-Gaib
 ---
+
 ---
- ## Quick Navigation
+
+## Quick Navigation
 - [General Info](#character-info)
 - [Background](#background)
 - [Relationships](#relationships)
