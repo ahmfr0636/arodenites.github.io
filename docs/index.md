@@ -3,29 +3,29 @@
 ## Quick Navigation
 ### Carrion Crown
 
-[Overview](/carrion-crown/overview.md)
+[Overview](/carrion-crown/overview.html)
 
-[Party](/carrion-crown/party/index.md)
-- [Herzem al-Gaib](/carrion-crown/party/herzem-al-gaib.md)
-- [Elroth Mornros](/carrion-crown/party/elroth-mornros.md)
-- [Thomas Ruckus](/carrion-crown/party/thomas-ruckus.md)
-- [Darian Vargo](/carrion-crown/party/darian-vargo.md)
-- [Ronin Olaru](/carrion-crown/party/ronin-olaru.md)
-- [Allies](/carrion-crown/party/allies/index.md)
+[Party](/carrion-crown/party/index.html)
+- [Herzem al-Gaib](/carrion-crown/party/herzem-al-gaib.html)
+- [Elroth Mornros](/carrion-crown/party/elroth-mornros.html)
+- [Thomas Ruckus](/carrion-crown/party/thomas-ruckus.html)
+- [Darian Vargo](/carrion-crown/party/darian-vargo.html)
+- [Ronin Olaru](/carrion-crown/party/ronin-olaru.html)
+- [Allies](/carrion-crown/party/allies/index.html)
 
-[Timeline](/carrion-crown/timeline.md)
+[Timeline](/carrion-crown/timeline.html)
 
-[Sessions](/carrion-crown/session/index.md)
-- [Session 1](/carrion-crown/session/session-1.md)
+[Sessions](/carrion-crown/session/index.html)
+- [Session 1](/carrion-crown/session/session-1.html)
 
 [Locations](/carrion-crown/locations/index.html)
-- [Ravengro & Harrowstone](/carrion-crown/locations/ravengro-and-harrowstone/index.md)
-- [Clover Geçidi](/carrion-crown/locations/clover-gecidi/index.md)
-- [Tamrivena](/carrion-crown/locations/tamrivena/index.md)
-- [Dys](/carrion-crown/locations/tamrivena/index.md)
+- [Ravengro & Harrowstone](/carrion-crown/locations/ravengro-and-harrowstone/index.html)
+- [Clover Geçidi](/carrion-crown/locations/clover-gecidi/index.html)
+- [Tamrivena](/carrion-crown/locations/tamrivena/index.html)
+- [Dys](/carrion-crown/locations/dys/index.html)
 
-[Organizations](/carrion-crown/organizations/index.md)
+[Organizations](/carrion-crown/organizations/index.html)
 
-[Whispering Way](/carrion-crown/organizations/whispering-way.md)
+[Whispering Way](/carrion-crown/organizations/whispering-way.html)
 
-[Mobs](/carrion-crown/mobs.md)
+[Mobs](/carrion-crown/mobs.html)
