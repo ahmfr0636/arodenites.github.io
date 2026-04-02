@@ -66,13 +66,13 @@ nav:
               - Enemy: carrion-crown/locations/ravengro-and-harrowstone/npcs/enemy.md
       - Clover Geçidi:
           - carrion-crown/locations/clover-gecidi/index.md
-          - General Info & Story: carrion-crown/locations/clover-gecidi/general-info.md
+          - General Info: carrion-crown/locations/clover-gecidi/general-info.md
       - Tamrivena: 
           - carrion-crown/locations/tamrivena/index.md
-          - General Info & Story: carrion-crown/locations/tamrivena/general-info.md
+          - General Info: carrion-crown/locations/tamrivena/general-info.md
       - Dys: 
           - carrion-crown/locations/dys/index.md
-          - General Info & Story: carrion-crown/locations/dys/general-info.md
+          - General Info: carrion-crown/locations/dys/general-info.md
   - Organizations:
       - carrion-crown/organizations/index.md
       - Whispering Way: carrion-crown/organizations/whispering-way.md
