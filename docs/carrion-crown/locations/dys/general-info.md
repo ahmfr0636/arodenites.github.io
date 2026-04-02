@@ -58,5 +58,5 @@ Darian’ın bağlantılı olduğu devil tarafından gönderilen bir contract de
 Sonuç:
 
 Takım teklifi kabul eder.
-Görev resmen başlamış olur.
+Görev resmen başlamış olur,
 Dispater, takımı geldikleri yere geri gönderir.
