@@ -63,4 +63,4 @@ the windy moors at night.
 
 ## Map
 Map is updated according to where party visits.
-![map-1](assets/1B7vm9FDg/map-1.png){ .map-image }
+<img src="assets/1B7vm9FDg/map-1.png" width="1000">

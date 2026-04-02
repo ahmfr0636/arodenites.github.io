@@ -1,16 +1,26 @@
 [Overview](./overview.md)
+
 [Party](./party/index.md)
-[Herzem al-Gaib](./party/herzem-al-gaib.md)
-[Elroth Mornros](./party/elroth-mornros.md)
-[Thomas Ruckus](./party/thomas-ruckus.md)
-[Darian Vargo](./party/darian-vargo.md)
-[Ronin Olaru](./party/ronin-olaru.md)
-[Allies](./party/allies/index.md)
+- [Herzem al-Gaib](./party/herzem-al-gaib.md)
+- [Elroth Mornros](./party/elroth-mornros.md)
+- [Thomas Ruckus](./party/thomas-ruckus.md)
+- [Darian Vargo](./party/darian-vargo.md)
+- [Ronin Olaru](./party/ronin-olaru.md)
+- [Allies](./party/allies/index.md)
+
 [Timeline](./timeline.md)
+
 [Sessions](./session/index.md)
-[Session 1](./session/session-1.md)
+- [Session 1](./session/session-1.md)
+
 [Locations](./locations/index.md)
-[Ravengro & Harrowstone](./locations/ravengro-and-harrowstone/index.md)
+- [Ravengro & Harrowstone](./locations/ravengro-and-harrowstone/index.md)
+- [Clover Geçidi](./locations/clover-gecidi/index.md)
+- [Tamrivena](./locations/tamrivena/index.md)
+- [Dys](./locations/dys/index.md)
+
 [Organizations](./organizations/index.md)
+
 [Whispering Way](./organizations/whispering-way.md)
+
 [Mobs](./mobs.md)
