@@ -51,6 +51,8 @@ title: Mobs
   - [Skeletons](#skeletons)
   - [Vampires](#vampires)
   - [Zombies](#zombies)
+  - [Ghouls](#ghouls)
+    - [Ghasts](#ghasts)
 
 - [VERMIN](#vermin)
   - [Giant Centipedes](#giant-centipedes)
@@ -173,7 +175,7 @@ Undead are once-living creatures animated by spiritual or supernatural forces.
 ## Poltergeist
 <img src="assets/3Uk2AqKvR/poltergeist.png" width="500" align="center">
 
-## Screaming Heads
+## Screaming Skulls
 <img src="assets/3Uk2AqKvR/severed_head.png" width="500" align="center">
 
 ## Skeletons
@@ -282,6 +284,26 @@ sonra isteyen, en sonunda da kendi sessiz gecesine katmaya çalışan konuşan b
 
 ## Zombies
 <img src="assets/3Uk2AqKvR/zombie.png" width="500" align="center">
+
+## Ghouls
+
+<img src="assets/3Uk2AqKvR/ghoul.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;" >
+
+Uzun ve keskin dişlere sahip bu insansı yaratığın soluk teni, açlıktan kurumuş iskeleti üzerinde sıkıca gerilmiştir.
+
+- Yakın Dövüş: Isırık (hastalık ve felç), 2 Pençe (felç)
+- Özel Saldırılar: Felç
+- Savunma Yetenekleri: Channel Resistance
+- Can Puanı: Oldukça düşük
+- Hastalık: Gulyabani Ateşi
+
+Gulyabaniler, köyleri ve mezarlıkları mesken tutan, cesetlerle beslenen undead yaratıklardır. Genellikle sürüler halinde bulunurlar.
+
+## Ghasts
+
+Yakın Dövüş: Isırık (hastalık), 2 Pençe
+Özel Saldırılar: Felç, İğrenç Koku (Stench)
+Bu yaratıklar, alt sınıf akrabalarına (sıradan gulyabanilere) fiziksel olarak çok benzeseler de çok daha ölümcül ve kurnazdırlar. Gastlar ya kendi türlerinden oluşan sürüler halinde dolaşır ya da sıradan gulyabani gruplarına liderlik ederler. Bu yaratıkların etrafını saran ölüm ve çürüme kokusu dayanılmaz boyuttadır ve yaklaşanı hasta eder.
 
 ---
 
